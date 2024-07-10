@@ -1,6 +1,6 @@
 name: App / Publish
 
-on:
+on: 
   push:
     tags:
       - v*
